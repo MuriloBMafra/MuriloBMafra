@@ -6,7 +6,6 @@
 
 - 🔭 Atualmente trabalho com Front-end
 - 🌱 Estudando JavaScript e Framework Angular
-- 💬 Ask me about ...
 - 📫 Entre em contato pelo E-mail murilommafra@gmail.com.
 
 <div align="left">
